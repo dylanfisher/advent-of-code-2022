@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Day 4: Day 5: Supply Stacks
+# Day 5: Supply Stacks
 # Part One
 # https://adventofcode.com/2022/day/5
 
